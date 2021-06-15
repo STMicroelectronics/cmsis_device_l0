@@ -1,4 +1,4 @@
-# STM32CubeG4 CMSIS Device MCU Component
+# STM32CubeL0 CMSIS Device MCU Component
 
 ## Overview
 
